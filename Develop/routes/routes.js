@@ -9,7 +9,7 @@ module.exports = app => {
 
         // Start API Routes
         app.get('/api/notes', function (req, res) {
-           res.json(notes);
+            res.json(notes);
         });
 
         app.post('/api/notes', function (req, res) {
