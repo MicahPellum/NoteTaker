@@ -15,8 +15,12 @@ CSS
 
 Javascript
 
+Node.js- Express
+
 # Links
 Deployed Heroku- https://whispering-everglades-73794.herokuapp.com/
+
+
 Github Repo- https://github.com/MicahPellum/NoteTaker/
 
 # Images
@@ -25,4 +29,5 @@ Github Repo- https://github.com/MicahPellum/NoteTaker/
 
 # Contributors
 Micah Pellum 
+
 Email- pellummicah@gmail.com
